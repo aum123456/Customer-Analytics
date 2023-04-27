@@ -12,7 +12,7 @@
 	
 	* Plotly
 
-* **Note:** Plotly visualizations are not rendered on GitHub code viewer. Install plotly package and run the notebook locally OR view the notebook in you browser by clicking [here](https://nbviewer.org/github/aum123456/Customer-Analytics/blob/main/data_analysis.ipynb).
+* **Note:** Plotly visualizations are not rendered on GitHub code viewer. Install plotly package and run the notebook locally OR view the notebook in your browser by clicking [here](https://nbviewer.org/github/aum123456/Customer-Analytics/blob/main/data_analysis.ipynb).
 
 ### Context
 
